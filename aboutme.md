@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: What motivates me
+share-img: /assets/img/path.jpg
 ---
 
 My name is Carolina Benzaquen. I have the following qualities:
